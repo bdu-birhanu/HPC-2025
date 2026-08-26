@@ -49,8 +49,6 @@ The goal is to understand how the different layers of an HPC environment fit tog
                       |
                   Linux OS
                       |
-                Provisioning
-                      |
                  Bare Metal
 ```
 
@@ -125,7 +123,7 @@ The central question is:
 ## Repository Structure
 
 ```text
-hpc-from-bare-metal-to-user-experience/
+hpc-2025/
 │
 ├── README.md
 │
