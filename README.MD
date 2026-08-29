@@ -66,7 +66,6 @@ The focus is on a **single heterogeneous on-premises HPC platform** supporting b
 - Linux system layer
 - Networking
 - Storage
-- HPC services
 
 ### Workload Management
 
@@ -117,48 +116,6 @@ This project is an effort to document and strengthen that systems-level understa
 The central question is:
 
 > **What actually happens between a user's first interaction with an HPC platform and the moment their application produces results?**
-
----
-
-## Repository Structure
-
-```text
-hpc-2025/
-│
-├── README.md
-│
-├── architecture/
-│   ├── 01-hpc-overview.md
-│   ├── 02-bare-metal.md
-|.  ├── 03 Provisioning
-│   ├── 04-linux-and-system-layer.md
-│   ├── 05-networking.md
-│   └── 06-storage.md
-│
-├── workloads/
-│   ├── 01-traditional-hpc.md
-│   └── 02-ai-and-gpu-workloads.md
-│
-├── slurm/
-│   ├── 01-slurm-and-job-lifecycle.md
-│   └── 02-cpu-and-gpu-job-submission.md
-│
-├── software/
-│   ├── 01-environment-modules.md
-│   ├── 02-mpi.md
-│   ├── 03-cuda.md
-│   └── 04-containers.md
-│
-├── troubleshooting/
-│   ├── 01-hpc-troubleshooting-methodology.md
-│   ├── 02-job-pending.md
-│   ├── 03-job-failed.md
-│   └── 04-gpu-not-visible.md
-│
-└── operations/
-    ├── 01-monitoring-and-observability.md
-    └── 02-hpc-incident-response.md
-```
 
 ---
 
