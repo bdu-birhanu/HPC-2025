@@ -37,6 +37,5 @@ HPC storage need to support large datasets and high levels of parallel I/O. The 
 
 |   |
 |:---|
- **The goal is not simply to build an HPC infrastructure.** 
- The goal is to engineer an ecosystem where every layer works together, reliably, efficiently, and at scale, so that researchers and engineers can focus on solving the problems that matter. 
+ **The goal is not simply to build an HPC infrastructure.** The goal is to engineer an ecosystem where every layer works together, reliably, efficiently, and at scale, so that researchers and engineers can focus on solving the problems that matter. 
 
