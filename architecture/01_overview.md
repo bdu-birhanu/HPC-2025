@@ -35,4 +35,4 @@ High-performance networking is critical for communication between HPC nodes. Tec
 HPC storage need to support large datasets and high levels of parallel I/O. The architecture may include local NVMe storage for high-speed temporary workloads, shared storage for persistent data, and parallel filesystems (e.g. GPFS) for large-scale workloads.
 
 
-HPC infrastructure is not just about building powerful machines; it is about engineering every layer to work together reliably, efficiently, and at scale, enabling researchers and engineers to solve complex problems faster and more effectively.
+>  HPC infrastructure is not just about building powerful machines; it is about engineering every layer to work together reliably, efficiently, and at scale, enabling researchers and engineers to solve complex problems faster and more effectively.
