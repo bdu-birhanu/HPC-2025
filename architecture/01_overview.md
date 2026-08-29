@@ -14,9 +14,11 @@ Where each layer plays an important role in delivering reliable and scalable com
 
 Bare-metal servers form the foundation of the HPC environment. Unlike virtualized infrastructure, compute workloads run directly on physical hardware, providing predictable performance and direct access to CPU, memory, GPU, storage, and network resources.
 
-## Provisioning
+### Provisioning & Cluster Management
 
-Provisioning is responsible for preparing and managing HPC nodes at scale. This includes hardware discovery, operating system installation, configuration management, firmware and driver deployment, and maintaining consistent configurations across compute nodes. Automated provisioning helps reduce manual administration and makes it easier to expand or replace nodes.
+Provisioning is responsible for bringing bare-metal HPC nodes from an unconfigured state to a production-ready cluster. This includes operating system deployment, firmware and driver configuration, network setup, and maintaining consistency across compute nodes.
+
+**NVIDIA Base Command Manager (BCM)** can be used to automate and manage these activities across the cluster, providing centralized infrastructure management for compute nodes and supporting the deployment and lifecycle management of HPC environments.
 
 ## CPU and GPU Compute
 
