@@ -18,7 +18,7 @@ Bare-metal servers form the foundation of the HPC environment. Unlike virtualize
 
 Provisioning is responsible for bringing bare-metal HPC nodes from an unconfigured state to a production-ready cluster. This includes operating system deployment, firmware and driver configuration, network setup, and maintaining consistency across compute nodes.
 
-**NVIDIA Base Command Manager (BCM)** can be used to automate and manage these activities across the cluster, providing centralized infrastructure management for compute nodes and supporting the deployment and lifecycle management of HPC environments.
+**NVIDIA Base Command Manager (BCM)** formerly known as Bright Cluster Manager, is used to automate and manage cluster provisioning, providing centralized infrastructure management for compute nodes and supporting the deployment, configuration, monitoring, and lifecycle management of HPC and AI environments.
 
 ## CPU and GPU Compute
 
